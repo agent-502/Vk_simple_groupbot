@@ -35,6 +35,6 @@ for event in VkLongPoll(session).listen():
 
 		else:
 			print("Error occured!")
-			input("Press any key to exit...")
+			#input("Press any key to exit...")
 			break
 
